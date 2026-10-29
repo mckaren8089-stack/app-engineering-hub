@@ -1,27 +1,11 @@
-# مرکز مهندسی اپلیکیشن‌ها
+# مرکز مهندسی اپلیکیشن‌ها | App Engineering Hub
 
-**وضعیت:** مخزن مادر GitHub ایجاد شده، دسترسی آن تأیید شده و اسناد اولیه منتشر شده‌اند.
+**برنامه‌های موجود:**
+- [اجرای روزنمای کارن](https://mckaren8089-stack.github.io/karen-rooznama/)
+- [اجرای کارن فیوز](https://mckaren8089-stack.github.io/karen-fuse/)
 
-**مخزن مرجع:** https://github.com/mckaren8089-stack/app-engineering-hub
+**English summary:** Shared engineering guides and patterns for independent apps.
 
-## شروع از اینجا
-این مرکز، مرجع مشترک دانش فنی، تحقیقات، قواعد آزمون و انتشار و قالب‌های شروع اپ‌های مستقل است. مخزن و پروژه ChatGPT هر اپ مستقل باقی می‌ماند. مخزن مادر محل کد کاربردی آن اپ‌ها نیست.
+**جزئیات / Full details:** [فارسی](README.fa.md) | [English](README.en.md)
 
-## پیوندهای مرجع بدون پارامتر اضافی
-- روزنمای کارن: https://mckaren8089-stack.github.io/karen-rooznama/
-- مخزن روزنما: https://github.com/mckaren8089-stack/karen-rooznama
-- کارن فیوز: https://mckaren8089-stack.github.io/karen-fuse/
-- مخزن کارن فیوز: https://github.com/mckaren8089-stack/karen-fuse
-
-## سندهای این پوشه
-- `GOVERNANCE.md`: نحوه همکاری پروژه مادر، پروژه‌های مستقل و چت‌های تخصصی.
-- `research/PWA-ANDROID-2026-10-30.md`: یافته‌های مشترک نصب PWA؛ فرضیه‌ها و واقعیت‌ها جداست.
-- `BACKLOG.md`: وظایف تأییدشده و موارد آینده، از جمله README دو زبانه و سند معرفی محصول.
-- `workflow/` در Google Drive و کتابخانه: فایل‌های انتقال کار بین چت‌ها و Workها. اینجا محل Snapshotهای اصلی نیست.
-- [فهرست اپ‌ها](registry/APPS.md): نقطه شروع هر پروژه جدید.
-
-## قاعده حقیقت واحد
-این مخزن GitHub منبع نسخه‌بندی استانداردها است. این پوشه در Google Drive و کتابخانه ChatGPT، محل مراجعه و بایگانی آن است. سندهای محرمانه و داده‌های شخصی کاربران نباید به مخزن عمومی منتقل شوند.
-
-## ثبت زمان تصمیم
-طبق زمان اعلام‌شده از سوی صاحب پروژه: **جمعه ۳۰ اکتبر ۲۰۲۶، ساعت ۰۰:۴۹ به وقت ایران (UTC+03:30)**. این «زمان مرجع تصمیم» است، نه زمان خودکار ایجاد فایل.
+**حقوق / Rights:** [All rights reserved / تمامی حقوق محفوظ است](LICENSE).
